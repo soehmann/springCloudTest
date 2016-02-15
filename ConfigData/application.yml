@@ -1,2 +1,5 @@
 # Base application config file
 ---
+spring:
+  profiles: soe
+words: Love,I,wanna,do
